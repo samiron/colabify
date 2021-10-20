@@ -12,8 +12,8 @@ Assumption:
 
 Steps to use:
 1. Open notebook-colabify.ipynb file. You should see a `Open in Colab` button.
-2. Click that button to open this file in Google colab. You will see something like the screenshot below.
-3. In the red section, put the required information
+2. Ctrl + Click that to open this file in Google colab in a new tab. You will see something like the screenshot below.
+3. In the Red section, put the required information
     - project name: essentially a folder where your code will be checked out.
     - github_repo: the https url of your git project.
     - clone_area: 
